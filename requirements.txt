@@ -1,0 +1,14 @@
+Flask==0.10.1
+Flask-OAuth==0.12
+Jinja2==2.7.2
+MarkupSafe==0.18
+Rdio==0.2
+Werkzeug==0.9.4
+argparse==1.2.1
+gunicorn==18.0
+httplib2==0.8
+itsdangerous==0.23
+oauth2==1.5.211
+pyechonest==8.0.1
+web.py==0.37
+wsgiref==0.1.2
